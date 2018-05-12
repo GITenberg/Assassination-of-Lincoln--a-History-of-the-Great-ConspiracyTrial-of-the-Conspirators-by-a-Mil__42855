@@ -1,0 +1,32 @@
+_repo: Assassination-of-Lincoln--a-History-of-the-Great-ConspiracyTrial-of-the-Conspirators-by-a-Mil__42855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42855-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harris, T. M. (Thomas Mealey)
+    aliases:
+    - Harris, Thomas Mealey
+    - Harris, Thomas M. (Thomas Mealey)
+    birthdate: 1817
+    deathdate: 1906
+    gutenberg_agent_id: '41889'
+    url: http://www.gutenberg.org/2009/agents/41889
+description: ''
+gutenberg_issued: '2013-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42855'
+  lccn: '53051313'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Assassination'
+- !lcsh 'Surratt, John H. (John Harrison), 1844-1916'
+- !lcc 'E456'
+title: "Assassination of Lincoln: a History of the Great Conspiracy\r\nTrial of the\
+  \ Conspirators by a Military Commission, and a Review of the Trial of John H. Surratt"
+url: http://www.gutenberg.org/ebooks/42855

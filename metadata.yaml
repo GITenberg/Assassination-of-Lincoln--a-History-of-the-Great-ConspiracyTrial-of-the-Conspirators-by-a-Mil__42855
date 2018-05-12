@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41889'
     url: http://www.gutenberg.org/2009/agents/41889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42855#Assassination-of-Lincoln--a-History-of-the-Great-ConspiracyTrial-of-the-Conspirators-by-a-Mil_
 gutenberg_issued: '2013-06-01'
 gutenberg_type: Text
 identifiers:
